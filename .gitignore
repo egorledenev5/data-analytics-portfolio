@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+venv/
+.env
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files that may be private or too large
+*.csv
+*.xlsx
+*.xls
+*.db
+*.sqlite
+
+# Keep public sample datasets only if they are safe to publish
+!data/sample_*.csv
+!data/README.md
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
