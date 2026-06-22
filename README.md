@@ -81,6 +81,16 @@ Every finished project should answer five questions:
 
 ---
 
+## 🛠️ How I will add new projects
+
+1. Create a separate folder for the project.
+2. Add a short README.md with the project goal and result.
+3. Add code, SQL queries, Excel screenshots or dashboard previews.
+4. Keep only safe public files in the repository.
+5. Update the project table above when the project is finished.
+
+---
+
 ## 🚀 Goal
 
 Build a simple, clean and understandable analytics portfolio for internships, junior roles and real practice.
